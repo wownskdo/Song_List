@@ -1,4 +1,4 @@
-[
-    {"name": "Song Anime", "notes": "abc def [ghi]"},
-    {"name": "Another Song", "notes": "xyz [abc] def"}
-]
+return {
+    {name = "Canon in D", notes = "d e f g"},
+    {name = "Twinkle", notes = "a a e e"}
+}
