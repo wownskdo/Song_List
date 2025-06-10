@@ -1,0 +1,4 @@
+[
+    {"name": "Song Name 2", "notes": "abc def [ghi]"},
+    {"name": "Another Song", "notes": "xyz [abc] def"}
+]
