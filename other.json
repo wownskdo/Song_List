@@ -1,4 +1,10 @@
 [
-    {"name": "Song Name 2", "notes": "abc def [ghi]"},
-    {"name": "Another Song", "notes": "xyz [abc] def"}
+    {
+        "name": "Test Song",
+        "notes": "a b c [de] -"
+    },
+    {
+        "name": "Chords Test",
+        "notes": "[abc] | [def]"
+    }
 ]
