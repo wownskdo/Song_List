@@ -1,4 +1,4 @@
 return {
-    {name = "Canon in D", notes = "d e f g"},
-    {name = "Twinkle", notes = "a a e e"}
+    {name = "Gurenge", notes = "a b c d"},
+    {name = "Unravel", notes = "[df] g a b"}
 }
