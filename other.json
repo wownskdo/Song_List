@@ -1,10 +1,4 @@
-[
-    {
-        "name": "Test Song",
-        "notes": "a b c [de] -"
-    },
-    {
-        "name": "Chords Test",
-        "notes": "[abc] | [def]"
-    }
-]
+return {
+    {name = "Canon in D", notes = "d e f g"},
+    {name = "Twinkle", notes = "a a e e"}
+}
