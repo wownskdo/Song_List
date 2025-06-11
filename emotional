@@ -1,0 +1,4 @@
+return {
+    {name = "Sas", notes = "a b c d"},
+    {name = "Cry", notes = "[abc] - {de}"}
+}
